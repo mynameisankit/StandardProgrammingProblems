@@ -1,4 +1,3 @@
-//Compete - https://auth.geeksforgeeks.org/user/dhritidesai/profile
 //Link - https://www.geeksforgeeks.org/trapping-rain-water/
 
 #include<bits/stdc++.h>
