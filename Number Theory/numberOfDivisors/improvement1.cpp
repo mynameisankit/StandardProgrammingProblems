@@ -4,7 +4,7 @@ using namespace std;
 typedef unsigned long long int UINT;
 typedef long long int INT;
 
-//This is a brute force solution
+//This is a small improvement over brute force solution
 //Time Complexity -> O(n^(1/2))
 
 void sieve_of_erastothenes(UINT n, set<UINT, less<UINT>> &primes);
